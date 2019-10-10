@@ -5,9 +5,9 @@
 
 ```
 dependencies:
-  flutter_push_plugin:
+  flutter_crash_plugin:
     git:
-      url: https://github.com/cyndibaby905/39_flutter_crash_plugin.git
+      url: https://github.com/hzxiao/flutter_crash_plugin.git
 ```
 
 配置Bugly App：
